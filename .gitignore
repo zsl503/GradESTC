@@ -1,0 +1,6 @@
+out*
+log
+data/dataset/*
+dataset
+*.pyc
+__pycache__
