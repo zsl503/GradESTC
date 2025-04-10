@@ -1,5 +1,8 @@
 # GradESTC
 
+**There seems to be some problem with anonymous github.**
+**If you can't read the source code online, please download it and view it. We are trying to fix the problem.**
+
 Code for paper “Communication-Efficient Federated Learning by Exploiting Spatio-Temporal Correlations”.
 
 ## Environment Preparation
